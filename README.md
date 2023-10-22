@@ -2,7 +2,7 @@
   <h1>University Management System</h1>
 </div>
 <div align="center">
-  <strong>Payment Service Starter</strong>
+  <strong>Payment Service</strong>
 </div>
 
 ## Development
